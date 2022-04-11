@@ -1,0 +1,1 @@
+d295d51c36bff364dafa9e4196dc7c4e54fcbd73846fb550643bef281430af1e  ./target/wasm32-unknown-unknown/release/comdex_academia.wasm

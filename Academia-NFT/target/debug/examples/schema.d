@@ -1,0 +1,1 @@
+/Users/subham/Academia-NFT/target/debug/examples/schema: /Users/subham/Academia-NFT/examples/schema.rs /Users/subham/Academia-NFT/src/contract.rs /Users/subham/Academia-NFT/src/error.rs /Users/subham/Academia-NFT/src/lib.rs /Users/subham/Academia-NFT/src/msg.rs /Users/subham/Academia-NFT/src/state.rs
